@@ -6,7 +6,7 @@
     "documentation-link": "https://cypherxbot.vercel.app",
     "owner-verification": "tylor9kid@gmail.com", 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {CYPHER-X:~UEsDBBQAAAgIANAluloL1cEGtwQAAJEIAAAKAAAAY3JlZHMuanNvbq1U2Y6jSBD8l3q1NTZHcVhqaQGDTwxufLS92ocyFLi4ocA2jPzvK9zdMy3NbG+vtDwVdWRGREbmd5BmhOIFbsDoO8hLckEV7pZVk2MwAmrt+7gEfeChCoERsJSEmyXP1WqvrJlWR5m6JNcdYWfX*VQ7Esu6hRezOB4vOn0C9z7I61NM3E8CBjYPm7r1TTSpx3BwMfI96w3hQa6ywYE7J97STSNtrpVK9ATuXURESpIGen7GCS5RvMCNjUj5NfgTa6eEzJXNdwJ7QJtCjbU0YAbrm7lbXncztxgeNHNgJ+E2+Bp81vDb4DAvhY0kbB3YK0sOj21REm3XNuSbvOLRKdD2rTNdv8KnJEixN*NwWpGq+bLukoZIa0AUOc5V2OJdGO7EZHUMB2Y855ervRpIqEAE67vr14DvypdC0De9E28IL2ZYkEN4nIaCtj6z9dir*bzZHCbSdBKf+Y*A7fLdK9F*0V2aTrFTZfMI91THWlmn9KbQed4W1nlgi7PVvriZA1lwyPCL8Nne1GFOLa+X60O7dLdztKCZinUvyHi4Oygc9fZmTm9WHP2Ej6q6*Ayl66xk+mxvgsjSz4veMT54EObGIlY5krpNoy29+RA+N2VcMLoqHaXWNixbXrRukZ5etJpFBqT2lrNUJyaBzh9vvEyCpwejCDczD4yYex+UOCC0KlFFsrTbk8Q+QN7FwW6Jq4e64HkltAMuGO+OmqV4k0XoXhnvetnCBs7o8gbT1YsejvWesNOfQB*kZeZiSrE3JbTKysbElKIAUzD681GojnOJk6zCc+J16nEcO5RYOISM9Af9dj2jiqI8*5biCvSBX2aJicGoKmvcB48HjCEK6lhhWKhDZixKnMaPRcNQdF1idFESO4bJa9INSTCtUJKDESPyEsvxosTc+*8PDlUVeF5UDVZSJdmAUOIFieUhK+qyJI4l5nMcMnv*qw9SfKtebdyJzzF94JOSVtu0zuMMee8efz9ErpvVaeU0qat1C1yC0YdtXFUkDWjHrE5R6Z7JBWsdDzDyUUzxj3rjEnvvXN5mmJZ5nQ3XRzhXD*IedNi7QL9oM+L4X+VJUXcb0IwmpDpnFBPQB*HjLS9LkB1CHkJBHLLd627**gN1l8TDFSIxBSOgWWkxqCVNt1*CVtInE2UbKFqggJ8s35vn1Z3bniOy8KLy7ToTJpvpSpsW2o0zgxZLUUjyep2oxTXgoiR7+k0QMALhSRR8dgG5NXyGk4jdT8+R6M+1qZbh6aFwNlmyXfnHRp+EfqDYeeP30KTINTI3l6dmzgtGlNyKRGF0GdJjJNdUi7X1U5fNwxfi4o*JZF1buOx2YT4HAzP3buXKnaaEtw5D5bR3J+MkM6xCkKMXDTr5PoifUXvNNTjJzxUKcSNXe3XnhwyNKU9WwyDk8O0WvrX1Y6zEb+OcvHUcefz6BD+m41ud*rWer8A72w3v*Q8x3ubtP8wsdWdHtVyfrtgcLqxzdGvXZyGgXjszuct8xhenaB4gOlvBeQHunf*zGFV+Viadd5ITAn1QZnVn4lnqZ59k0pRgprzRjhGtlJ+N8Zteg*zrLbvM8imi504Bmzmc*c7ljZLnToWq9z4DSvcZgwu4*w1QSwECFAMUAAAICADQJbpaC9XBBrcEAACRCAAACgAAAAAAAAAAAAAApIEAAAAAY3JlZHMuanNvblBLBQYAAAAAAQABADgAAADfBAAAAAA=
       "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
       "value": "",
       "required": false
@@ -16,7 +16,7 @@
       "value": "CypherX",
       "required": false
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {+233208250518
       "description": "The primary owner's WhatsApp number, including country code (e.g., 2547XXXXXXXX).",
       "value": "",
       "required": true
@@ -26,7 +26,7 @@
     "value": "https://example.com/image1.jpg, https://example.com/image2.png",
     "required": false
   },
-    "OWNER_NAME": {
+    "OWNER_NAME": {SOSMITH OSEI
       "description": "The name of the primary owner of the bot.",
       "value": "",
       "required": true
